@@ -1,4 +1,4 @@
-import UserProfile from '.components/UserProfile/index'
+import UserProfile from '.components/UserProfile'
 import './App.css'
 
 const userDetailsList = [

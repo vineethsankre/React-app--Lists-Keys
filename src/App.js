@@ -24,7 +24,7 @@ const userDetailsList = [
     uniqueNo: 4,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/devon-lane-img.png',
     name: 'Devon lane',
-    role: 'Jr. Software Engineer',
+    role: 'DevOps Engineer',
   },
 ]
 
